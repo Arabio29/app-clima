@@ -1,0 +1,11 @@
+/* Estilos para el modo oscuro */
+body.dark-mode {
+    background-color: #343A40;
+    color: #fff;
+}
+
+/* Estilos para el modo claro */
+body.light-mode {
+    background-color: #fff;
+    color: #343A40;
+}
